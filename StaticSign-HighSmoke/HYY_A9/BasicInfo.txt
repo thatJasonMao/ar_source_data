@@ -1,0 +1,7 @@
+路径初始化时间：2026-06-01 14:48:16
+机器码：DESKTOP-98HROPD
+受试者中文名：HYY_A9​
+受试者英文名：HYY_A9​
+设备型号：90VA000YCP (LENOVO)
+显卡信息：NVIDIA GeForce RTX 4080 SUPER
+处理器信息：Intel(R) Core(TM) i9-14900KF
