@@ -1,0 +1,7 @@
+路径初始化时间：2026-06-02 09:59:21
+机器码：DESKTOP-98HROPD
+受试者中文名：CSQ_C11​
+受试者英文名：CSQ_C11​
+设备型号：90VA000YCP (LENOVO)
+显卡信息：NVIDIA GeForce RTX 4080 SUPER
+处理器信息：Intel(R) Core(TM) i9-14900KF
