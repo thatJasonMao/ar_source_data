@@ -1,0 +1,7 @@
+路径初始化时间：2026-06-04 11:08:55
+机器码：DESKTOP-98HROPD
+受试者中文名：ZYT_C14​
+受试者英文名：ZYT_C14​
+设备型号：90VA000YCP (LENOVO)
+显卡信息：NVIDIA GeForce RTX 4080 SUPER
+处理器信息：Intel(R) Core(TM) i9-14900KF
